@@ -1,0 +1,6 @@
+{
+  "name": "Slow Grinds Masala",
+  "description": "An organic, premium, small-batch artisanal food experience serving hand-ground spice blends in stone mortars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
